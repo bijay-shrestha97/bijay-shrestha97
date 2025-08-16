@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Bijay 👋
 
-<!--
-**bijay-shrestha97/bijay-shrestha97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Platform Engineer| AWS & DevOps Engineer | Web Developer**
 
-Here are some ideas to get you started:
+I enjoy designing scalable architectures, building web apps, and automating deployments.  
+Currently working with **AWS, Kubernetes, Docker, Django/Flask, and React/Vue**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Tech Stack
+- **Languages:** Python, JavaScript  
+- **Backend:** Django, Flask, DRF  
+- **Frontend:** React, Vue  
+- **Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD  
+- **Databases:** PostgreSQL, Redis  
+
+---
+
+### 🌱 What I'm Up To
+- Preparing for **AWS Solutions Architect** certification  
+- Designing highly available **AWS architectures for fintech & SaaS**  
+- Building and scaling **modern web apps**  
+
+---
+
+### 📌 Selected Projects
+- [The O'Reilly Show](https://theoreillyshow.co.uk/) – Podcast website  
+- [BookedIn](https://bookedinn.co.uk/) – Online booking system  
+- [Suryakunda Hydro](https://suryakundahydro.com.np/) – Corporate site  
+
+---
+
+📫 **Let’s connect:** [LinkedIn](https://www.linkedin.com/in/bijay-shrestha-97/) | [Instagram](https://www.instagram.com/bijay_shrestha_07)  
