@@ -17,16 +17,13 @@ Currently working with **AWS, Kubernetes, Docker, Django/Flask, and React/Vue**.
 ---
 
 ### 🌱 What I'm Up To
+- Working as **Platform Engineer at Citytech Global**: handling **Fintech application CI/CD to live deployments**  
 - Preparing for **AWS Solutions Architect** certification  
 - Designing highly available **AWS architectures for fintech & SaaS**  
-- Building and scaling **modern web apps**  
 
 ---
 
-### 📌 Selected Projects
-- [The O'Reilly Show](https://theoreillyshow.co.uk/) – Podcast website  
-- [BookedIn](https://bookedinn.co.uk/) – Online booking system  
-- [Suryakunda Hydro](https://suryakundahydro.com.np/) – Corporate site  
+💼 **Hire me on Upwork:** [Click here](https://www.upwork.com/freelancers/~015464f18c2365b4e6)  
 
 ---
 
